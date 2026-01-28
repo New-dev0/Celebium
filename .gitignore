@@ -1,0 +1,12 @@
+# Auto Claude data directory
+.auto-claude/
+.claude/
+CLAUDE.md
+undetectable_api.json
+SeleniumBase/
+plan/
+/downloaded_files/
+/profiles/
+/tests/
+*pyc
+/__pycache__/
